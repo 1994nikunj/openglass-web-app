@@ -139,7 +139,7 @@ THis application is built using [`MERN`](https://www.mongodb.com/mern-stack) sta
 
 ## Step I. Clone URL (optional)
 
-> https://github.com/khatri7/cs546-group36-final-project.git
+> https://github.com/1994nikunj/openglass-web-app
 
 ## Step II. Installing dependencies
 
